@@ -270,7 +270,9 @@
     transform: translateX(1rem); }
   .btn:hover .arrow-line-1 {
     width: 2rem; }
-  .btn:hover .arrow-line-2 .arrow-line-3 {
+  .btn:hover .arrow-line-2 {
+    left: 0; }
+  .btn:hover .arrow-line-3 {
     left: 0; }
   .btn-bg {
     width: 4rem;
